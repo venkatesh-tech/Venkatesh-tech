@@ -24,6 +24,10 @@ My personal stuff:
 
 
 ### Connect with me:
-<p align="center">
-<a href="https://www.linkedin.com/in/venkatesh-kolapalli-8011081b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Venkatesh" height="30" width="30" /></a>
+<p>
+<a href="https://twitter.com/VenkateshKolap3?s=08"><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a>  
+<a href="https://www.linkedin.com/in/venkatesh-kolapalli-8011081b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.instagram.com/_always_venkatesh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+ </a> 
 </p>
+  
