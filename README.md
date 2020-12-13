@@ -22,6 +22,12 @@ My personal stuff:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-tech&layout=compact)](https://github.com/venkatesh-tech/Venkatesh-tech)
 
+# 📩 Latest Blog Posts 
+<!-- BLOG-POST-LIST:START -->
+- [Fundamentls of Digital Marketing](https://kolapallinagavenkatesh.medium.com/fundamentals-of-digital-marketing-beginner-guide-c21f5da3c91)
+
+<!-- BLOG-POST-LIST:END -->
+
 
 ### Connect with me:
 <p>
