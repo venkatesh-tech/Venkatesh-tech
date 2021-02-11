@@ -3,7 +3,7 @@
 
 My personal stuff:
 
-- 🔭 I’m currently working on  *Front End Web Development*.
+- 🔭 I’m currently working on  *Front End Development*.
 - 🌱 I’m currently learning  *JavaScript*
 - 👯 I’m looking to collaborate on  Website Application Development Projects
 - 🤔 I’m looking for help with *Designing*
