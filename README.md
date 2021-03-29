@@ -42,7 +42,7 @@ My personal stuff:
 <p>
 <a href="https://twitter.com/VenkateshKolap3?s=08"><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a>  
 <a href="https://www.linkedin.com/in/venkatesh-kolapalli-8011081b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-<a href="https://www.instagram.com/_always_venkatesh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+<a href="https://www.instagram.com/_always_venkatesh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25> <a href="https://stackoverflow.com/users/14426154/naga-venkatesh-kolapalli"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25> <a href="https://kolapallinagavenkatesh.medium.com/"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a>
  </a> 
 </p>
   
