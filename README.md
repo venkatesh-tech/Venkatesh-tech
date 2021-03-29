@@ -26,7 +26,7 @@ My personal stuff:
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Venkatesh-tech&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-  ![Venkatesh github stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-tech&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-tech&show_icons=true&theme=gotham" alt="Venkatesh-tech" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-tech&layout=compact)](https://github.com/venkatesh-tech/Venkatesh-tech)
 
