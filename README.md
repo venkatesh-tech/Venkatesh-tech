@@ -3,11 +3,11 @@
 
 My personal stuff:
 
-- 🔭 I’m currently working on  *Front End Development*.
+- 🔭 I’m currently working on  *Reactj*.
 
-- 🌱 I’m currently learning  *Reactjs*
+- 🌱 I’m currently learning  *Firebase*
  
-- 👯 I’m looking to collaborate on  Website Application Development Projects
+- 👯 I’m looking to collaborate on  Front End Development Projects
 
 - 🤔 I’m looking for help with *Material UI*
 
