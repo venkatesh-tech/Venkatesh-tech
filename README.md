@@ -3,7 +3,7 @@
 
 My personal stuff:
 
-- 🔭 I’m currently working on  *Reactj*.
+- 🔭 I’m currently working on  *Reactjs*
 
 - 🌱 I’m currently learning  *Firebase*
  
