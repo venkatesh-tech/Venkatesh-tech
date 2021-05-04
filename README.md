@@ -15,7 +15,7 @@ My personal stuff:
  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/venkatesh-kolapalli-8011081b5)
  
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He
 
 
 *Languages*
