@@ -9,7 +9,7 @@ My personal stuff:
  
 - 👯 I’m looking to collaborate on  Front End Development Projects
 
-- 🤔 I’m looking for help with *Material UI*
+- 🤔 I’m looking for help with *Firebase Cloud Functions*
 
 - 💬 Ask me about *Digital Marketing, Front End Development*
  
