@@ -1,4 +1,4 @@
-### Hey there, This is Venkatesh Kolapalli 
+### Hey there, This is Venkatesh Kolapalli 👋
 
 
 My personal stuff:
