@@ -1,7 +1,7 @@
 ### Hey there, This is Venkatesh Kolapalli 👋
 
 
-My personal stuff
+My personal stuff:
 
 - 🔭 I’m currently working on  *Reactjs*
 
