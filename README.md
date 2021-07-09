@@ -3,9 +3,9 @@
 
 My personal stuff:
 
-- 🔭 I’m currently working on  *Reactjs*
+- 🔭 I’m currently working on  *Firebase*
 
-- 🌱 I’m currently learning  *Firebase*
+- 🌱 I’m currently learning  *Nodejs*
  
 - 👯 I’m looking to collaborate on  Front End Development Projects
 
