@@ -39,6 +39,7 @@ My personal stuff:
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started With Reactjs](https://medium.com/@kolapallinagavenkatesh/getting-started-with-reactjs-837f62788bad) 
 - [Fundamentls of Digital Marketing](https://kolapallinagavenkatesh.medium.com/fundamentals-of-digital-marketing-beginner-guide-c21f5da3c91)
+- [API-Application Programming Interface](https://kolapallinagavenkatesh.medium.com/api-application-programming-interface-types-specifications-testing-tools-842df6dab587)
 
 <!-- BLOG-POST-LIST:END -->
 
