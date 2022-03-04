@@ -1,5 +1,5 @@
 ### Hey there, This is Venkatesh Kolapalli 👋
-![Blue Monotone Minimalist Pandemic Crisis Hub Linkedin Banner (1)](https://user-images.githubusercontent.com/70833350/156772324-ef02804a-f1e1-408e-827c-6fa17ca69948.png)
+![Blue Monotone Minimalist Pandemic Crisis Hub Linkedin Banner (5)](https://user-images.githubusercontent.com/70833350/156773725-8e39b0a4-8a22-4296-af4f-3218096d1fee.png)
 
 
 My personal stuff:
