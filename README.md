@@ -2,6 +2,9 @@
 ![Blue Monotone Minimalist Pandemic Crisis Hub Linkedin Banner (5)](https://user-images.githubusercontent.com/70833350/156773725-8e39b0a4-8a22-4296-af4f-3218096d1fee.png)
 
 
+![Blue Monotone Minimalist Pandemic Crisis Hub Linkedin Banner (6)](https://user-images.githubusercontent.com/70833350/156775976-55e49c9d-75c8-4cfa-bab8-61f23a8f98cc.png)
+
+
 My personal stuff:
 
 - 🔭 I’m currently working on  *Firebase*
