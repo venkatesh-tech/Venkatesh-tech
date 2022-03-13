@@ -5,7 +5,7 @@
 
 My personal stuff:
 
-- 🔭 I’m currently working on  *Firebase*
+- 🔭 I’m currently working on  *Reactjs*
 
 - 🌱 I’m currently learning  *Nodejs*
  
